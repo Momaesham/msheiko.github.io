@@ -1,0 +1,32 @@
+table{
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0 100px;
+}
+th, td{
+    border: 3px solid gray;
+    vertical-align: middle;
+    text-align: center;
+}
+caption{
+    padding: 20px;
+    font-size: 3em;
+}
+.location{
+    font-weight: 700;
+    font-size: 2em;
+}
+td{
+    font-size: 1em;
+}
+th{
+    font-style: italic;
+    font-size: 1.5em;
+}
+.first{
+    background-color: rgb(187, 184, 184);
+}
+.title{
+    background-color: white;
+}
+
